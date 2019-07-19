@@ -1,6 +1,10 @@
 {
   "name": "angular-truffle-box",
   "version": "0.0.0",
+  "engines": {
+    "node": "10.16.0",
+    "npm": "6.10.1"
+  },
   "license": "MIT",
   "scripts": {
     "ng": "ng",
